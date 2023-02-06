@@ -6,6 +6,7 @@ import java.io.File;
 
 public class Main {
   public static void main(String[] args) {
+    // THIS COMMENT IS FROM THE FUTURE!!!
     new Main();
     Thread w = new Thread(new Window());
     w.start();
